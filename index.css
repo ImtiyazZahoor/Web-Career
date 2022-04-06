@@ -1,0 +1,50 @@
+body{
+    background-image: url(./pic1.jpeg);
+    background-position: center;
+    background-size: cover;
+    padding: auto;
+   
+    
+}
+.box {
+    width: 250px;
+    height: 110px;
+    border: 2px solid rgb(235, 229, 229);
+    box-shadow: 5px 5px #696969;
+    background-image: url(./pic1.jpeg);
+    background-position: center;
+    background-size: cover;
+    padding: auto;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 20px;
+    border-top: 4px double #999;
+}
+
+#box1{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    border-radius: 40px 0px 40px 0px;
+}
+#box2{
+    
+    position: absolute;
+    right:400px;
+    top: 170px;
+    border-radius: 40px 0px 40px 0px;
+}
+#box3{
+    position: absolute;
+    right: 100px;
+    top: 250px;
+    border-radius: 40px 0px 40px 0px;
+}
+#box4{
+   
+    position: absolute;
+    bottom: 60px;
+    right:400px;
+    border-radius: 40px 0px 40px 0px;
+}
